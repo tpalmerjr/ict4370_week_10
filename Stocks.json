@@ -1,0 +1,58 @@
+[
+  {
+    "symbol": "GOOGL",
+    "no_shares": 125,
+    "purchase_price": "772.88",
+    "current_value": "941.53",
+    "purchase_date": "8/1/2015"
+  },
+  {
+    "symbol": "MSFT",
+    "no_shares": 85,
+    "purchase_price": "56.6",
+    "current_value": "73.04",
+    "purchase_date": "8/1/2015"
+  },
+  {
+    "symbol": "RDS-A",
+    "no_shares": 400,
+    "purchase_price": "49.58",
+    "current_value": "55.74",
+    "purchase_date": "8/1/2015"
+  },
+  {
+    "symbol": "AIG",
+    "no_shares": 235,
+    "purchase_price": "54.21",
+    "current_value": "65.27",
+    "purchase_date": "8/1/2015"
+  },
+  {
+    "symbol": "FB",
+    "no_shares": 150,
+    "purchase_price": "124.31",
+    "current_value": "172.45",
+    "purchase_date": "8/1/2015"
+  },
+  {
+    "symbol": "M",
+    "no_shares": 425,
+    "purchase_price": "30.3",
+    "current_value": "23.98",
+    "purchase_date": "1/10/2017"
+  },
+  {
+    "symbol": "F",
+    "no_shares": 85,
+    "purchase_price": "12.58",
+    "current_value": "10.95",
+    "purchase_date": "2/17/2017"
+  },
+  {
+    "symbol": "IBM",
+    "no_shares": 80,
+    "purchase_price": "150.37",
+    "current_value": "145.3",
+    "purchase_date": "5/12/2017"
+  }
+]
