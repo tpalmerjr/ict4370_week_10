@@ -42,17 +42,17 @@
     "purchase_date": "1/10/2017"
   },
   {
-    "symbol": "F",
-    "no_shares": 85,
-    "purchase_price": "12.58",
-    "current_value": "10.95",
-    "purchase_date": "2/17/2017"
-  },
-  {
     "symbol": "IBM",
     "no_shares": 80,
     "purchase_price": "150.37",
     "current_value": "145.3",
     "purchase_date": "5/12/2017"
+  },
+  {
+    "symbol": "F",
+    "no_shares": 85,
+    "purchase_price": "12.58",
+    "current_value": "10.95",
+    "purchase_date": "2/17/2017"
   }
 ]
